@@ -1,0 +1,16 @@
+A especificação ECMA-262 contém as informações mais detalhadas, detalhadas e formalizadas sobre JavaScript. Ele define o idioma.
+
+https://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+A Referência JavaScript MDN (Mozilla) é um manual com exemplos e outras informações. É ótimo obter informações detalhadas sobre funções individuais de idiomas, métodos etc.
+
+Pode-se encontrá-lo em https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+MSDN - Manual da Microsoft com muitas informações, incluindo JavaScript (geralmente conhecido como JScript). Se alguém precisar de algo específico para o Internet Explorer, é melhor ir para lá: http://msdn.microsoft.com/ .
+
+Tabelas de compatibilidade
+
+Para ver seu suporte entre os mecanismos baseados em navegador e outros, consulte:
+
+http://caniuse.com - tabelas de suporte por recurso, por exemplo, para ver quais mecanismos suportam funções modernas de criptografia: http://caniuse.com/#feat=cryptography .
+https://kangax.github.io/compat-table - uma tabela com recursos e mecanismos de idioma que os suportam ou não.
